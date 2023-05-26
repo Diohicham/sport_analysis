@@ -1,4 +1,5 @@
+python 3
 numpy
 pandas
 matlplotlib
-seaborn
+seaborn Version 1.4
